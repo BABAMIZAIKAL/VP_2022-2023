@@ -40,4 +40,4 @@ def is_number(a):
     return False
 
 print(max_of_two(sum_list(input_nums(4)), sum_list([10, 0.1])))
-# print(max_of_two(sum_list([4, "AA@", 3.12, "1"]), "9.2"))
+print(max_of_two(sum_list([4, "AA@", 3.12, "1"]), "9.2"))
